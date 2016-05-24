@@ -1,4 +1,14 @@
 /********************
+IMPORTS
+*******************/
+
+@import url('reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
+
+
+
+/********************
 YOUR STYLES
 *******************/
 
@@ -10,16 +20,16 @@ MEDIA QUERIES
 *******************/
 
 /* Desktop */
-@media (min-width: 1200px) {
+@media (min-width: 75em) {
 
 }
 
 /* Tablet */
-@media (min-width: 768px) {
+@media (min-width: 48em) {
 
 }
 
 /* Mobile */
-@media (min-width: 480px) {
+@media (min-width: 30em) {
 
 }
